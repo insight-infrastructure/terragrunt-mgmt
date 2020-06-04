@@ -1,0 +1,7 @@
+dev:
+  vault: master
+  network: master
+
+prod:
+  vault: master
+  network: master
